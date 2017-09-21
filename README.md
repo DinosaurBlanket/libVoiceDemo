@@ -1,2 +1,2 @@
 # libVoiceDemo
-example program that uses libVoice
+An example program that demonstrates [libVoice](https://github.com/DinosaurBlanket/libVoice).
